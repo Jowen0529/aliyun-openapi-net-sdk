@@ -1,0 +1,8 @@
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\bin\Release\Regions\endpoints.xml
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.dll
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.pdb
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.dll
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.pdb
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.csprojResolveAssemblyReference.cache
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.dll
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.pdb

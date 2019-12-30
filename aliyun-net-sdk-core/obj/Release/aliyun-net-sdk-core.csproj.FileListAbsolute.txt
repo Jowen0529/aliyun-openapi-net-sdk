@@ -1,0 +1,6 @@
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\Regions\endpoints.xml
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.dll
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.pdb
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.dll
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.pdb
+E:\MedoProgram\AliApiTest\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.csprojResolveAssemblyReference.cache
